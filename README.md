@@ -2,16 +2,66 @@
 
 
 
-### Hi there👋
+## <h1 align="center">Hai👋, I'm Sharan Adhithya!</h1>
+<br />
 
-<h1 align="center"> I'm SHARAN ADHITHYA </h1>
+<p>I'm currently pursuing Bachelor Degree in Artificial Intelligence and Data Science.<br> Let's dive into my world of tech and creativity!</p>
+<br />
+<a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Sharan Adhithya S | LinkedIn" width="22px" src="https://thumbs.dreamstime.com/b/web-184355984.jpg" />
+<a href="https://instagram.com/_.aakarsh._" target="_blank"><img align="left" alt="Sharan Adhithya S | Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-logo-1494D6FE63-seeklogo.com.png" />
+<a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Sharan Adhithya S | Facebook" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
+<a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Sharan Adhithya S | Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" />
 
-<p>Nice to meet you! I'm currently pursuing Bachelor  Degree in Artificial Intelligence and Data Science. Let's dive into my world of tech and creativity!</p>
+<br />
+<br/>
+<div>
+<details>
+  <summary>More about me 😎</summary>
+
+- 🔭 I’m currently on a journey to build **Great** things
+
+- 🌱 I’m currently learning **Everything** 🤓
+
+- 💬 Ask me about **Web Development**
+
+- 📫 Reach me out at **sharanadhithya0@gmail.com**
+
+</details>
+
+---
+
+### Languages and Tools:
 
 
-## AI Music 🎧
-<p float="left" >
-  <img src="https://novatorem-amber-nine.vercel.app/api/spotify" height="150px"/>
-  <img alt="Embracing AI in Music" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qvr2mXs3VKUsKZs2mvhhIuVFJoHHl93ECg&usqp=CAU" height="150px"/>
-</p>
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
+<img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
+<img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
+<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<br />
+<br />
+### Softwares:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Figma" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" />
+<img align="left" alt="Jupyter" width="26px" src="https://technology.amis.nl/wp-content/uploads/2020/11/image_thumb-27.png" />
+
+
+
+<br />
+<br />
+
+---
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+<br/>
+
+-----
+
+
+
 
