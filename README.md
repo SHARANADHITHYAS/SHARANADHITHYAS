@@ -7,10 +7,10 @@
 
 <p>I'm currently pursuing Bachelor Degree in Artificial Intelligence and Data Science.<br> Let's dive into my world of tech and creativity!</p>
 <br />
-<a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Sharan Adhithya S | LinkedIn" width="22px" src="https://thumbs.dreamstime.com/b/web-184355984.jpg" />
-<a href="https://instagram.com/_.aakarsh._" target="_blank"><img align="left" alt="Sharan Adhithya S | Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-logo-1494D6FE63-seeklogo.com.png" />
-<a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Sharan Adhithya S | Facebook" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
-<a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Sharan Adhithya S | Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" />
+<a href="https://www.linkedin.com/in/sharanadhithyas/" target="_blank"><img align="left" alt="Sharan Adhithya S | LinkedIn" width="22px" src="https://thumbs.dreamstime.com/b/web-184355984.jpg" />
+<a href="https://www.instagram.com/sharan_2k03_?igsh=MWljN3pvNDlqcmUzYQ==" target="_blank"><img align="left" alt="Sharan Adhithya S | Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-logo-1494D6FE63-seeklogo.com.png" />
+<a href="https://www.facebook.com/profile.php?id=100034264272325&mibextid=ZbWKwL" target="_blank"><img align="left" alt="Sharan Adhithya S | Facebook" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
+<a href="https://www.hackerrank.com/profile/927621bad047?" target="_blank"><img align="left" alt="Sharan Adhithya S | Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" />
 
 <br />
 <br/>
@@ -39,7 +39,7 @@
 <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
 <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
 <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://static-00.iconduck.com/assets.00/github-icon-512x497-oppthre2.png" />
 <br />
 <br />
 ### Softwares:
@@ -55,12 +55,12 @@
 
 ---
 
-### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
-<br/>
 
------
+ ### Now Playing - Spotify 🎧
+
+
+ [![spotify](https://npaas.vercel.app/api/spotify)]()
 
 
 
