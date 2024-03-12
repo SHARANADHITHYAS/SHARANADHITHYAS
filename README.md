@@ -60,7 +60,7 @@
  ### Now Playing - Spotify 🎧
 
 
- [![spotify](https://npaas.vercel.app/api/spotify)]()
+ [![spotify](https://npaas.vercel.app/api/spotify)](https://open.spotify.com/user/315xj4u4ijjoflwocyc7rfwc6vhm?si=41ca53cff5e844b9)
 
 
 
